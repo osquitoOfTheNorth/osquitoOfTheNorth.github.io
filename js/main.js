@@ -14,7 +14,7 @@ var shellTextArray = ["Oscar = new Oscar()",
                         "{ <br> <p id=\"indent\"> company:\"Ceridian\"<br>role: \"Senior Android Developer\"<br>startDate:\"Aug 2020\"<br>endDate: Feb 2022 </p>}," +
                         "{ <br> <p id=\"indent\"> company:\"Intuit\"<br>role: \"Senior Android Developer\"<br>startDate:\"Feb 2022\"<br>endDate: Present </p>}];",
                       "Oscar.Resume",
-                      "<a class=\"link\" href=\"https://docs.google.com/document/d/1XvA7B9OcB5A6qX7yO9W06tHIUuaQ1E-PreLKEGlCNwk/edit?usp=sharing\">\"oscarmenjivar.doc\"</a>",
+                      "<a class=\"link\" href=\"/Oscar\ Menjivar\ CV.docx\">\"oscarmenjivar.doc\"</a>",
                       "Oscar.email",
                       "\"oscarmenj02@gmail.com\"",
                       "Oscar.socialMedia",
