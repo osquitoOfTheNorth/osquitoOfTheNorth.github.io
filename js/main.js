@@ -10,11 +10,11 @@ var shellTextArray = ["Oscar = new Oscar()",
                       "Oscar.Interests",
                       "[\"code\", \"cooking\", \"music\", \"travel\", \"food\" ]",
                       "Oscar.WorkExperience",
-                      "[{ <br> <p id=\"indent\"> company:\"Ecobee\"<br>role: \"Android Developer\"<br>startDate:\"Nov 2018\"<br>endDate: null </p>}," +
-                        "{ <br> <p id=\"indent\"> company:\"SapientRazorfish\"<br>role: \"Associate Mobile Applications Developer\"<br>startDate:\"July 2016\"<br>endDate: Nov 2018 </p>}," +
-                        "{ <br> <p id=\"indent\"> company:\"RBC Capital Markets\"<br>role: \"Technical Systems Analyst\"<br>startDate:\"May 2014\"<br>endDate: Sept 2015 </p>}];",
+                      "[{ <br> <p id=\"indent\"> company:\"Ecobee\"<br>role: \"Android Developer\"<br>startDate:\"Nov 2018\"<br>endDate: Aug 2020 </p>}," +
+                        "{ <br> <p id=\"indent\"> company:\"Ceridian\"<br>role: \"Senior Android Developer\"<br>startDate:\"Aug 2020\"<br>endDate: Feb 2022 </p>}," +
+                        "{ <br> <p id=\"indent\"> company:\"Intuit\"<br>role: \"Senior Android Developer\"<br>startDate:\"Feb 2022\"<br>endDate: Present </p>}];",
                       "Oscar.Resume",
-                      "<a class=\"link\" href=\"./Oscar Menjivar Resume_2020.docx\">\"oscarmenjivar.doc\"</a>",
+                      "<a class=\"link\" href=\"https://docs.google.com/document/d/1XvA7B9OcB5A6qX7yO9W06tHIUuaQ1E-PreLKEGlCNwk/edit?usp=sharing\">\"oscarmenjivar.doc\"</a>",
                       "Oscar.email",
                       "\"oscarmenj02@gmail.com\"",
                       "Oscar.socialMedia",
