@@ -2,7 +2,7 @@
 var cursorbgColor = "grey";
 var shellTextArray = ["Oscar = new Oscar()",
                       "Oscar.Location",
-                      "\"Toronto, ON, Canada\"",
+                      "\"Kitchener, ON, Canada\"",
                       "Oscar.University",
                       "\"University Of Toronto\"",
                       "Oscar.FieldOfStudy",
